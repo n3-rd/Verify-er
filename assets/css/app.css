@@ -1,0 +1,82 @@
+@media (min-width: 767px) {
+  .app-title {
+    text-align: center !important;
+  }
+  .verified {
+    text-align: center !important;
+  }
+}
+.bar {
+  background-color: #fff !important;
+  border: none;
+  box-shadow: none;
+}
+.more {
+  font-size: 23px;
+  margin-top: 0.7em;
+  transform: rotate(90deg);
+}
+.back {
+  font-size: 26px;
+  padding: 3px;
+  position: absolute;
+  top: 1em;
+}
+.content {
+  background-color: #fff;
+}
+.app-title {
+  margin: 2em 0 0 20px;
+  font-size: 34px;
+}
+.action-center {
+  margin: 20vh auto;
+  margin-bottom: 4vh;
+  width: 80%;
+}
+#main-input {
+  margin: 0 auto;
+  padding: 14px 7px;
+  border-radius: 20px;
+  border: 1px solid #bdbdbd;
+  width: 100%;
+  color: #333;
+}
+#verify-button {
+  margin: 6vh auto;
+  display: block;
+  padding: 16px 39px;
+  font-size: 27px;
+  border-radius: 10px;
+  border: none;
+  background-color: #017bf4;
+  color: #fff;
+}
+#verify-button:hover {
+  background-color: #016edb;
+}
+.app-logo {
+  width: 20%;
+  margin-top: 33px;
+  position: relative;
+  left: 53px;
+}
+.verified {
+  font-size: 25px;
+  line-height: 33px;
+  margin: 0 20px !important;
+}
+.verified li {
+  list-style: none;
+  text-justify: distribute;
+  /* margin: 0!important; */
+}
+.about-content {
+  font-size: 25px;
+  line-height: 33px;
+  margin: 15vh 20px !important;
+}
+.about-content li {
+  list-style: none;
+  text-justify: distribute;
+}

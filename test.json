@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "phone": "+2348088277702",
+    "phone_valid": true,
+    "phone_type": "mobile",
+    "phone_region": "Nigeria",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "country_prefix": "234",
+    "international_number": "+234 808 827 7702",
+    "local_number": "0808 827 7702",
+    "e164": "+2348088277702",
+    "carrier": "Airtel"
+}
