@@ -4,7 +4,6 @@ $('.back').click(function(){
     console.log('back clicked')
 })
 
-// your Rapid Api Key Here
 
 
 $('#verify-button').click(function(){
